@@ -1,0 +1,101 @@
+
+									Table for Comparisons of Compression Algorithms
+**************************************************************************************************************************************************
+
+|------------------------------------------------------------------------------------------------------------------------------------|
+| File				Original Size					Compressed Size					Compression Ratio(Rounded to 5 decimal places)   |
+|------------------------------------------------------------------------------------------------------------------------------------|
+assig2.doc			87,040 Bytes					LZW -->	74,574 bytes			LZW --> 1.16716
+													MyLZW - n --> 40,040 bytes		MyLZW - n --> 2.17383
+													MyLZW - r --> 40,040 bytes		MyLZW - r --> 2.17383
+													MyLZW - m --> 40,040 bytes		MyLZW - m --> 2.17383
+													ZIP -->	23,754 bytes			ZIP --> 3.66422
+
+bmps.tar			1,105,920 Bytes					LZW -->	925,079 bytes			LZW --> 1.9548
+													MyLZW - n --> 80,913 bytes		MyLZW - n --> 13.66801
+													MyLZW - r --> 80,913 bytes		MyLZW - r --> 13.66801
+													MyLZW - m --> 80,913 bytes		MyLZW - m --> 13.66801
+													ZIP -->	64,328 bytes			ZIP --> 17.19189
+
+code.txt			72,351 Bytes					LZW -->	30,980 bytes			LZW --> 2.33541
+													MyLZW - n --> 24,545 bytes		MyLZW - n --> 2.94769
+													MyLZW - r --> 24,545 bytes		MyLZW - r --> 2.94769
+													MyLZW - m --> 24,545 bytes		MyLZW - m --> 2.94769
+													ZIP -->	15,714 bytes			ZIP --> 4.60424
+
+code2.txt			57,701 Bytes					LZW -->	24,138 bytes			LZW --> 2.39046
+													MyLZW - n --> 20,516 bytes		MyLZW - n --> 2.81249
+													MyLZW - r --> 20,516 bytes		MyLZW - r --> 2.81249
+													MyLZW - m --> 20,516 bytes		MyLZW - m --> 2.81249
+													ZIP -->	14,020 bytes			ZIP --> 4.11562
+
+
+edit.exe			236,328 Bytes					LZW -->	250,742 bytes			LZW --> 0.94251
+													MyLZW - n --> 156,409 bytes		MyLZW - n --> 1.51096 
+													MyLZW - r --> 152,227 bytes		MyLZW - r --> 1.55247
+													MyLZW - m --> 156,409 bytes		MyLZW - m --> 1.51096
+													ZIP -->	127,200 bytes			ZIP --> 1.85792
+
+
+frosty.jpg			126,748 Bytes					LZW -->	177,453 bytes			LZW --> 0.71426
+													MyLZW - n --> 163,789 bytes		MyLZW - n --> 0.77385
+													MyLZW - r --> 171,170 bytes		MyLZW - r --> 0.74048
+													MyLZW - m --> 163,789 bytes		MyLZW - m --> 0.77385
+													ZIP -->	127,214 bytes			ZIP --> 0.99634
+
+
+gone_fishing.bmps	17,336 Bytes					LZW -->	9,278 bytes				LZW --> 1.86851
+													MyLZW - n --> 8,963 bytes		MyLZW - n --> 1.93417
+													MyLZW - r --> 8,963 bytes		MyLZW - r --> 1.93417
+													MyLZW - m --> 8,963 bytes		MyLZW - m --> 1.93417
+													ZIP -->	9,225 bytes				ZIP --> 1.87924
+
+
+large.txt			1,220,703 Bytes					LZW -->	605,184 bytes			LZW --> 2.01708
+													MyLZW - n --> 501,777 bytes		MyLZW - n --> 2.43276
+													MyLZW - r --> 527,506 bytes		MyLZW - r --> 2.31410
+													MyLZW - m --> 501,777 bytes		MyLZW - m --> 2.43276
+													ZIP -->	493,578 bytes			ZIP --> 2.47317
+
+
+Lego-big.gif 		93,371 Bytes					LZW -->	128,973 bytes			LZW --> 0.72396
+													MyLZW - n --> 122,493 bytes		MyLZW - n --> 0.76226
+													MyLZW - r --> 122,493 bytes		MyLZW - r --> 0.76226
+													MyLZW - m --> 122,493 bytes		MyLZW - m --> 0.76226
+													ZIP -->	93,039 bytes			ZIP --> 1.00357
+
+
+medium.txt			25,407 Bytes					LZW --> 13,197 bytes			LZW --> 1.92521
+													MyLZW - n --> 12,531 bytes		MyLZW - n --> 2.02753
+													MyLZW - r --> 12,531 bytes		MyLZW - r --> 2.02753
+													MyLZW - m --> 12,531 bytes		MyLZW - m --> 2.02753
+													ZIP -->	11,359 bytes			ZIP --> 2.23673
+
+
+texts.tar			1,382,400 Bytes					LZW -->	1,012,179 bytes			LZW --> 1.36577
+													MyLZW - n --> 597,847 bytes		MyLZW - n --> 2.31230
+													MyLZW - r --> 590,475 bytes		MyLZW - r --> 2.34117
+													MyLZW - m --> 597,847 bytes		MyLZW - m --> 2.31230
+													ZIP -->	534,023 bytes			ZIP --> 2.58865
+
+
+wacky.bmp 			921,654 Bytes					LZW -->	4,302 bytes				LZW --> 214.23849
+													MyLZW - n --> 3,951 bytes		MyLZW - n --> 233.27107
+													MyLZW - r --> 3,951 bytes		MyLZW - r --> 233.27107
+													MyLZW - m --> 3,951 bytes		MyLZW - m --> 233.27107
+													ZIP -->	3,499 bytes				ZIP --> 263.40497
+
+
+winnt256.bmp 		157,044 Bytes					LZW -->	159,050 bytes			LZW --> 0.98739
+													MyLZW - n --> 62,931 bytes		MyLZW - n --> 2.49550
+													MyLZW - r --> 62,931 bytes		MyLZW - r --> 2.49550
+													MyLZW - m --> 62,931 bytes		MyLZW - m --> 2.49550
+													ZIP -->	50,418 bytes			ZIP --> 3.11484
+
+
+all.tar				3,031,040 Bytes					LZW -->	1,846,854 bytes			LZW --> 1.64119
+													MyLZW - n --> 1,792,781 bytes	MyLZW - n --> 1.69069
+													MyLZW - r --> 1,178,221 bytes	MyLZW - r --> 2.57256
+													MyLZW - m --> 1,819,814 bytes	MyLZW - m --> 1.66558
+													ZIP -->	969,762 bytes			ZIP -->	3.12555	
+
